@@ -1,7 +1,4 @@
 # PYTHON RESOURCES
-### Today's workshop
-
-* [Workshop](http://swcarpentry.github.io/python-novice-inflammation/)
 
 ### Ways to learn Python:
 
