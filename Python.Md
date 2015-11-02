@@ -1,4 +1,5 @@
 # PYTHON RESOURCES
+
 ### Ways to learn Python:
 
 * This [book](http://learnpythonthehardway.org/book/) is free and is how I learned Python. It covers all the basics in an order that makes sense.
