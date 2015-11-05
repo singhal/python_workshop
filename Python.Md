@@ -12,8 +12,9 @@
 * This used to be my favorite [online course](https://www.udacity.com/programming-languages/python) for Python, but now it costs money :( It is free for 14 days if you want to check it out
 * I love this [website](http://learnpythonbreakpython.com/) because it teaches you Python by teaching you all the ways you can break Python, so it gets into the specifics of Python syntax that might give you problems
 * Google has a [Python course](https://developers.google.com/edu/python/), too
-* This [website](www.checkio.org) has you complete tasks as you learn code - it is designed to be a game. I found it a bit clunky to use, but I think the idea is really neat, and you might have better mileage.
-* This [website](https://projecteuler.net/) hosts small challenges that can be solved in a number of programming languages, including Python. It is a fun way to learn how to code, which is especially helpful because you can read other people's solutions both in Python and in other languages you might know.
+* [CheckIO](www.checkio.org) has you complete tasks as you learn code - it is designed to be a game. I found it a bit clunky to use, but I think the idea is really neat, and you might have better mileage.
+* [Project Euler](https://projecteuler.net/) hosts small challenges that can be solved in a number of programming languages, including Python. It is a fun way to learn how to code, which is especially helpful because you can read other people's solutions both in Python and in other languages you might know.
+* This [website](http://www.practicepython.org/) has a more diverse set of challenges to try to improve at Python.
 
 
 ### Useful resources
