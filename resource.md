@@ -1,5 +1,5 @@
 ### Resource
-I wrote up this resource list for you all: $https://github.com/singhal/python_workshop/blob/master/Python.Md$
+I wrote up this resource list for you all: https://github.com/singhal/python_workshop/blob/master/Python.Md
 
 
 ### Dictionaries
@@ -47,7 +47,7 @@ I wrote up this resource list for you all: $https://github.com/singhal/python_wo
 
 
 ### Data Analysis!
-- We are going to analyze the data that are here: $https://github.com/singhal/python_workshop$
+- We are going to analyze the data that are here: https://github.com/singhal/python_workshop
 	- Right-click on the file named `cell_phone_subscriptions_100.csv` and save to your Desktop.
 - First, we have to figure out how to read the data in.
 	- Hint: the function `open()` will be useful!
