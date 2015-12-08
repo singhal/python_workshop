@@ -7,13 +7,13 @@ I wrote up this resource list for you all: https://github.com/singhal/python_wor
 - Lists
 - Dictionaries
 
-### Functions
-- take in variables
-- return variables
-
 ### Control statements
 - if / elif / else
 - while, for
+
+### Functions
+- take in variables
+- return variables
 
 ### Function Practice
 - Write a function that takes a temperature in degrees in Celsius and returns it in Farenheit
