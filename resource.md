@@ -1,13 +1,18 @@
 ### Resource
 I wrote up this resource list for you all: https://github.com/singhal/python_workshop/blob/master/Python.Md
-
-
-### Dictionaries
-
-
+### Data Structures
+- Strings
+- Variables
+- Lists
+- Dictionaries
+### Functions
+- take in variables
+- return variables
+### Control statements
+- if / elif / else
+- while, for
 
 ### Function Practice
-
 - Write a function that takes two numbers as arguments and returns the larger of the two. If the two numbers are equal, you can decide what to do.
 - Write a function that takes a letter and returns `True` if it is a vowel.
 	- Hint: Python can check if something is in a list, for example:
