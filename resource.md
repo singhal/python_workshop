@@ -1,13 +1,16 @@
 ### Resource
 I wrote up this resource list for you all: https://github.com/singhal/python_workshop/blob/master/Python.Md
+
 ### Data Structures
 - Strings
 - Variables
 - Lists
 - Dictionaries
+
 ### Functions
 - take in variables
 - return variables
+
 ### Control statements
 - if / elif / else
 - while, for
